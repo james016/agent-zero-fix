@@ -19,3 +19,6 @@ SAMBANOVA_BASE_URL=https://ark.cn-beijing.volces.com/api/v3
 ![](./assets/c3.png)
 
 ![](./assets/c4.png)
+
+用 Sambanova 的接口 api key 使用火山的 key 即可
+![](./assets/c5.png)
